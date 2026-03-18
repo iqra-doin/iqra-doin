@@ -48,4 +48,4 @@ Software Engineer at [Doin Tech](https://github.com/Doin-Tech), focused on build
 
 ---
 
-*Open to collaboration on backend, automation, and DevOps projects.*
+*Good software is built on clarity of thought, discipline in execution, and respect for the systems that people depend on.*
