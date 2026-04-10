@@ -27,14 +27,6 @@ Software Engineer at [Doin Tech](https://github.com/Doin-Tech), focused on build
 - Git, GitHub Actions
 - REST API design and integration
 - Environment configuration and deployment automation
-
----
-
-## Current Work
-
-- Software Engineer at **Doin Tech**, contributing to internal tooling and platform development
-- Maintainer of [`telegram-forex-copier`](https://github.com/iqra-doin/telegram-forex-copier) — a TypeScript-based Telegram signal automation tool
-
 ---
 
 ## Contact
