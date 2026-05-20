@@ -12,32 +12,12 @@ Software Engineer at [Doin Tech](https://github.com/Doin-Tech), focused on build
 
 ---
 
-## Technical Skills
+<br>
+<!-- GitHub Snake -->
+<div align="center">
+  <img src="https://github.com/0xAshik/GitubSVGs/blob/main/grid-snake.svg" alt="snake"/>
+</div>
 
-**Languages**
-- TypeScript / JavaScript (Node.js)
-- Python
-
-**Cloud & DevOps**
-- Cloud infrastructure provisioning and management
-- CI/CD pipeline design and automation
-- Containerization and orchestration
-
-**Tools & Platforms**
-- Git, GitHub Actions
-- REST API design and integration
-- Environment configuration and deployment automation
----
-
-## Contact
-
-| | |
-|---|---|
-| **Email** | iqra@doin.tech |
-| **Organization** | [Doin Tech](https://github.com/Doin-Tech) |
-| **GitHub** | [@iqra-doin](https://github.com/iqra-doin) |
-| **Location** | Dhaka, Bangladesh |
-
----
+<br>
 
 *Good software is built on clarity of thought, discipline in execution, and respect for the systems that people depend on.*
