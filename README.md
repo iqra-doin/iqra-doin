@@ -14,9 +14,11 @@ Software Engineer at [Doin Tech](https://github.com/Doin-Tech), focused on build
 
 <br>
 <!-- GitHub Snake -->
-<div align="center">
-  <img src="https://github.com/0xAshik/GitubSVGs/blob/main/grid-snake.svg" alt="snake"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="breakout-light.svg" />
+  <img alt="Breakout Game" src="breakout-light.svg" />
+</picture>
 
 <br>
 
